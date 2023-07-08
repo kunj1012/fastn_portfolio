@@ -75,12 +75,12 @@ firstTitle: I'm
 secondTitle: Kunj Thakkar
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: want 
+secondTitle: some
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and
-secondTitle: explorer.
+firstTitle: can you 
+secondTitle: help
 
 -- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -95,11 +95,11 @@ width.fixed.px: 700
 spacing.fixed.px: 10
 
 -- button.secondary:
-title: Hire me
+title: can I hire you 
 link: mailto:kunjthakkar555@gmail.com
 
 -- button.primary:
-title: Schedule a Meeting
+title: mein bohot busy hoon ,
 link: AA ke mil lo
 isNewTab: true
 
